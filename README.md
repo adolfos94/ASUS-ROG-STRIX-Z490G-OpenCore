@@ -5,8 +5,8 @@
 <img src="./Docs/OpenCore_with_text_Small.png"/>
 
 ![Static Badge](https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ROG-%23FF0029?style=for-the-badge&logo=republic%20of%20gamers&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/macOS-%23000000?style=for-the-badge&logo=macos&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ROG-%23FF0029?style=for-the-badge&logo=republic%20of%20gamers&logoColor=white)
 
 </center>
 
