@@ -1,6 +1,14 @@
-## ![OpenCore](./Docs/OpenCore_with_text_Small.png)
+<center>
 
- ASUS-ROG-STRIX-Z490G OpenCore EFI
+# ASUS-ROG-STRIX-Z490G OpenCore EFI
+
+<img src="./Docs/OpenCore_with_text_Small.png"/>
+
+![Static Badge](https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ROG-%23FF0029?style=for-the-badge&logo=republic%20of%20gamers&logoColor=white)
+![Static Badge](https://img.shields.io/badge/macOS-%23000000?style=for-the-badge&logo=macos&logoColor=white)
+
+</center>
 
 ## Software
 
@@ -41,6 +49,9 @@
 
 ## Modify config.plist in the OC Folder
 
-This repository contains EFI based on OpenCore 0.9.5. If you're using the same mobo, then this EFI is likely working for you. But if you have different parts other than mobo, please read the following content and modify it accrodingly.
+This repository contains EFI based on OpenCore 0.9.5. If you're using the same mobo, then this EFI is likely working for you. But if you have different parts other than mobo, please read the following content and modify it accordingly.
 
-You need [ProperTree](https://github.com/corpnewt/ProperTree) to open and edit config.plist.
+- [OpenCore]("https://dortania.github.io/OpenCore-Install-Guide/")
+
+> [!NOTE]
+> You need [ProperTree](https://github.com/corpnewt/ProperTree) to open and edit config.plist.
