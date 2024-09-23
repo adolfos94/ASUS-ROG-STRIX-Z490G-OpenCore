@@ -1,12 +1,8 @@
 <center>
 
-# ASUS-ROG-STRIX-Z490G OpenCore EFI
+# <img src="./Docs/homepage.png" width="32"> ASUS-ROG-STRIX-Z490G OpenCore EFI
 
 <img src="./Docs/OpenCore_with_text_Small.png"/>
-
-![Static Badge](https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white)
-![Static Badge](https://img.shields.io/badge/macOS-%23000000?style=for-the-badge&logo=macos&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ROG-%23FF0029?style=for-the-badge&logo=republic%20of%20gamers&logoColor=white)
 
 </center>
 
@@ -14,13 +10,13 @@
 
 |     Name      | Version |
 | :-----------: | :-----: |
-|     macOS     |  13.6   |
-|   OpenCore    |  0.9.5  |
-|   AppleALC    |  1.8.6  |
-|     Lilu      |  1.6.7  |
+|     macOS     |  14.7   |
+|   OpenCore    |  1.0.1  |
+|   AppleALC    |  1.9.1  |
+|     Lilu      |  1.6.8  |
 |    NVMeFix    |  1.1.1  |
-|  VirtualSMC   |  1.3.2  |
-| WhateverGreen |  1.6.6  |
+|  VirtualSMC   |  1.3.3  |
+| WhateverGreen |  1.6.7  |
 
 ## Hardware
 
