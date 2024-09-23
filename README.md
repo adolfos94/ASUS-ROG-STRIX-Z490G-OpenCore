@@ -2,11 +2,15 @@
 
 # <img src="./Docs/homepage.png" width="32"> ASUS-ROG-STRIX-Z490G OpenCore EFI
 
-<img src="./Docs/OpenCore_with_text_Small.png"/>
+<img align="center" src="./Docs/OpenCore_with_text_Small.png"/>
+
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.1-blue.svg)](https://github.com/acidanthera/OpenCorePkg) [![macOS-stable](https://img.shields.io/badge/macOS-13.7-brightgreen.svg)](https://www.apple.com/macos) [![macOS-stable](https://img.shields.io/badge/macOS-14.7-brightgreen.svg)](https://www.apple.com/macos/sonoma/)
 
 </center>
 
 ## Software
+
+<img align="right" src="./Docs/Z4900-G.png" height="350">
 
 |     Name      | Version |
 | :-----------: | :-----: |
