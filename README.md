@@ -21,6 +21,7 @@
 |    NVMeFix    |  1.1.1  |
 |  VirtualSMC   |  1.3.3  |
 | WhateverGreen |  1.6.7  |
+| AirportItlwm  |  2.3.0  |
 
 ## Hardware
 
@@ -40,9 +41,9 @@
 | :-----------------------------------: | :----: | :------------------------------: |
 |                  USB                  |   ✅   |     See USB mapping section      |
 |               Ethernet                |   ✅   |   Using Apple's I225LM driver    |
-|                 Wi-Fi                 |   ❌   |  Need to add Wi-Fi card driver   |
-|               Bluetooth               |   ❌   |  Need to add Wi-Fi card driver   |
-| AirDrop, Handoff, Universal Clipboard |   ❌   |  Need to add Wi-Fi card driver   |
+|                 Wi-Fi                 |   ✅   |    Using AirportItlwm driver     |
+|               Bluetooth               |   ❌   | Need to add IntelBT card driver  |
+| AirDrop, Handoff, Universal Clipboard |   ✅   |    Using AirportItlwm driver     |
 |         Hardware Acceleration         |   ✅   | Using iGPU Hardware Acceleration |
 |                  DRM                  |   ✅   | Using iGPU Hardware Acceleration |
 |                 Sleep                 |   ✅   |   Need to use mouse to wake up   |
